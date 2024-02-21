@@ -1,0 +1,9 @@
+INCLUDE /tools/DesignKits/UMC/180/bu/cds.lib
+
+DEFINE NOR /home/students/LAB/us0109/Dokumenty/ZAD1/NOR
+DEFINE avTech /eda/cadence/2020-21/RHELx86/ASSURA_04.16.109_618/tools.lnx86/assura/etc/avtech/avTech
+DEFINE ZAD2 /home/students/LAB/us0109/Dokumenty/ZAD1/ZAD2
+DEFINE biblioteka /home/students/biblioteka
+#Removed by ddDeleteObj: DEFINE ZAD3 /home/students/LAB/us0109/Dokumenty/ZAD1/ZAD3
+#Removed by ddDeleteObj: DEFINE ZAD3 /home/students/LAB/us0109/Dokumenty/ZAD1/ZAD3
+DEFINE ZAD3 /home/students/LAB/us0109/Dokumenty/ZAD1/ZAD3

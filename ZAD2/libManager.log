@@ -1,0 +1,28 @@
+\o Program:		@(#)$CDS: libManager version 6.1.8 - CAT37 09/15/2020 20:25 (sjfhw492) $
+\o Sub version:		sub-version  s146 
+\o Arguments:		-unmapped -mpssession virtuoso10447 -mpshost lab513-pc13 
+\o Working Directory:	lab513-pc13:/home/students/LAB/us0109/Dokumenty/ZAD1/ZAD2
+\o 64-bit offsets
+\o Qt version: 		5.9.1
+\o changeWorkingDir("/home/students/LAB/us0109/Dokumenty/ZAD1/ZAD2") unnecessary.
+\o ddSetForcedLib("") unnecessary.
+\o Log file is "/home/students/LAB/us0109/Dokumenty/ZAD1/ZAD2/libManager.log".
+\o Opening libManager window.
+\a nrSetWindowVisibility(cdsLibManager "show")
+\o MPS service: map window
+\o Library Manager customization server connected.
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(1111 28 602 491))
+\a cdsLibManager->libListBox->value = "US_8ths"
+\a cdsLibManager->libLineEdit->value = "US_8ths"
+\a cdsLibManager->libListBox->value = "ahdlLib"
+\a cdsLibManager->libLineEdit->value = "ahdlLib"
+\a cdsLibManager->libListBox->value = "US_8ths"
+\a cdsLibManager->libLineEdit->value = "US_8ths"
+\a cdsLibManager->libListBox->value = "rfExamples"
+\a cdsLibManager->libLineEdit->value = "rfExamples"
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a _lmgrCloseIconify("cdsLibManager" 1)
+\o MPS service: shutdown
+\o libManager is exiting.
+\a exit(0)

@@ -1,0 +1,12 @@
+\o Program:		@(#)$CDS: cdsLibEditor version 6.1.8 - CAT37 09/15/2020 20:28 (sjfhw492) $
+\o Sub version:		sub-version  s146 
+\o Arguments:		-cdslib /home/students/LAB/us0109/Dokumenty/ZAD1/cds.lib -mpssession virtuoso14003 -mpshost lab513-pc13 
+\o Working Directory:	lab513-pc13:/home/students/LAB/us0109/Dokumenty/ZAD1
+\o 64-bit offsets
+\a nrSetWindowVisibility(cdsLibEditor "show")
+\o Qt version: 		5.9.1
+\a nrSetCurrentWindow(cdsLibEditor)
+\a nrListItemAction(cdsLibEditor->mainTable 0 0)
+\o Active cell: 0 0 "analogLib"
+\a nrResizeWindow(cdsLibEditor list(50 78 500 400))
+\a exit(0)

@@ -1,0 +1,15 @@
+
+
+  Cadence Quantus Extraction - 64-bit Parasitic Extractor - Version
+19.1.1-s086 Mon Mar 25 09:39:10 PDT 2019
+---------------------------------------------------------------------------------------------------------------
+                                  Copyright 2019 Cadence Design Systems,
+Inc.
+
+
+
+INFO (EXTQRCXOPT-243) : For Assura inputs, if the "output_setup -directory_name" option was not
+specified, it is automatically set to the input directory.
+
+
+INFO (EXTQRCXLOG-103) : Command file checking completed.
